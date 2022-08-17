@@ -1,4 +1,4 @@
-<strong>Venv, Poetry и управление зависимостями проекта<strong>
+<strong>Venv, Poetry и управление зависимостями проекта</strong>
 
 
 1. Создайте проект, используя poetry. 
