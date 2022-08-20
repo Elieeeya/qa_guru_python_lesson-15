@@ -6,11 +6,11 @@ authors = ["Elieeeya <ik.slydnev@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-pytest = "^7.0"
-selene ="^2.0.b5"
+selene = ">=2.0.0b5"
+pytest = "7.1.2"
 
 [tool.poetry.dev-dependencies]
-pylint = "^2.14.5"
+pylint = "2.14.5"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
